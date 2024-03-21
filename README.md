@@ -22,7 +22,7 @@ Acesse a página : https://hudsonma.itch.io/roll
 
 ### Vídeo de demonstração
 
-- [Demostração](https://www.youtube.com/watch?v=vb5Xp-iIyiI&t=1s)
+- [Demonstração](https://www.youtube.com/watch?v=vb5Xp-iIyiI&t=1s)
 
 Referências :
 
